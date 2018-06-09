@@ -1,5 +1,4 @@
 .DS_Store
-static/* linguist-vendored
 
 application/cache/*
 !application/cache/index.html
